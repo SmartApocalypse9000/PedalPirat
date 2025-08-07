@@ -1439,252 +1439,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+5V"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+5V"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+5V\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+5V_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+5V_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "power:GND"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "GND"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "GND_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "GND_1_1"
-				(pin power_in line
-					(at 0 0 270)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-	)
-	(wire
-		(pts
-			(xy 180.34 69.85) (xy 180.34 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "080690cc-5993-443a-8cac-44bbe7f3ce00")
-	)
-	(wire
-		(pts
-			(xy 115.57 77.47) (xy 127 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17088038-cb7e-474c-8c4d-e6a7bb788da8")
 	)
 	(wire
 		(pts
@@ -1698,76 +1452,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 85.09) (xy 127 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c6e1011-e523-4297-b70d-00cfde8baf1c")
-	)
-	(wire
-		(pts
-			(xy 175.26 74.93) (xy 175.26 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4dc2c7d1-e6ec-4f48-9e38-e38a9f678c3e")
-	)
-	(wire
-		(pts
-			(xy 172.72 69.85) (xy 180.34 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ff56363-ff0d-4411-a1df-c2953eae4432")
-	)
-	(wire
-		(pts
-			(xy 115.57 74.93) (xy 137.16 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "737975f8-b0f5-4c38-93fc-9431d5d766a5")
-	)
-	(wire
-		(pts
-			(xy 127 77.47) (xy 127 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a5392fb-3b7e-41f1-a3f4-c1f846c1f991")
-	)
-	(wire
-		(pts
-			(xy 172.72 74.93) (xy 175.26 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c390d35f-b177-45f5-932a-243de2977278")
-	)
-	(wire
-		(pts
-			(xy 115.57 87.63) (xy 180.34 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1508a1d-1ee1-41bf-bf05-0df98f5f745c")
-	)
-	(wire
-		(pts
 			(xy 100.33 107.95) (xy 100.33 123.19)
 		)
 		(stroke
@@ -1775,72 +1459,6 @@
 			(type default)
 		)
 		(uuid "f2b7004c-3d85-4670-8616-3e00f6c1e0a4")
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 172.72 77.47 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "47564e7e-2dc9-4f26-80fa-d9a017b6ffb2")
-		(property "Reference" "#PWR01"
-			(at 172.72 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 172.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 172.72 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 172.72 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 172.72 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cb227498-7853-4231-910c-7df87f6d6282")
-		)
-		(instances
-			(project ""
-				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:IS32IO1028A-GRLA2-TR")
@@ -2005,7 +1623,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:228EMVARGBFR")
-		(at 137.16 69.85 0)
+		(at 205.74 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2014,7 +1632,7 @@
 		(fields_autoplaced yes)
 		(uuid "6be644fa-1250-4122-b843-635b2af29920")
 		(property "Reference" "S1"
-			(at 154.94 62.23 0)
+			(at 223.52 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2022,7 +1640,7 @@
 			)
 		)
 		(property "Value" "228EMVARGBFR"
-			(at 154.94 64.77 0)
+			(at 223.52 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2030,7 +1648,7 @@
 			)
 		)
 		(property "Footprint" "228EMVARGBFR"
-			(at 168.91 164.77 0)
+			(at 237.49 171.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2040,7 +1658,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ctscorp.com/Files/DataSheets/Switches/Tactile-Switches/CTS-Switches-Tactile-228E-Series-Datasheet.pdf"
-			(at 168.91 264.77 0)
+			(at 237.49 271.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2050,7 +1668,7 @@
 			)
 		)
 		(property "Description" "Tactile Switches LED tact sw, gullwing, vertical, red,green&blue flat led"
-			(at 137.16 69.85 0)
+			(at 205.74 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2059,7 +1677,7 @@
 			)
 		)
 		(property "Height" "5.7"
-			(at 168.91 464.77 0)
+			(at 237.49 471.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2069,7 +1687,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "CTS"
-			(at 168.91 564.77 0)
+			(at 237.49 571.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2079,7 +1697,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "228EMVARGBFR"
-			(at 168.91 664.77 0)
+			(at 237.49 671.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2089,7 +1707,7 @@
 			)
 		)
 		(property "Mouser Part Number" "774-228EMVARGBFR"
-			(at 168.91 764.77 0)
+			(at 237.49 771.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2099,7 +1717,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CTS-Electronic-Components/228EMVARGBFR?qs=BJlw7L4Cy7%2FeuEuJlsaHQw%3D%3D"
-			(at 168.91 864.77 0)
+			(at 237.49 871.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2109,7 +1727,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 168.91 964.77 0)
+			(at 237.49 971.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2119,7 +1737,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 168.91 1064.77 0)
+			(at 237.49 1071.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2150,76 +1768,9 @@
 			(uuid "7809cfc0-c664-4631-9460-f893210a3fbe")
 		)
 		(instances
-			(project ""
+			(project "PedalPirat"
 				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
 					(reference "S1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 172.72 72.39 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7cd04cc3-00b7-4255-9190-fbdff8a7eba7")
-		(property "Reference" "#PWR02"
-			(at 179.07 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 176.53 72.3899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 172.72 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 172.72 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 172.72 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "57acba29-7416-4812-bdb5-8a4a0c1a2187")
-		)
-		(instances
-			(project ""
-				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
