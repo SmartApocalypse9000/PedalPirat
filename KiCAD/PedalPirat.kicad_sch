@@ -267,6 +267,1306 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SamacSys_Parts:AA2810AQBS_D"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 12.7 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "AA2810AQBS_D"
+				(at 12.7 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "AA2810AQBSD"
+				(at 12.7 -93.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+				(at 12.7 -193.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.8"
+				(at 12.7 -393.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Kingbright"
+				(at 12.7 -493.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+				(at 12.7 -593.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "604-AA2810AQBS/D"
+				(at 12.7 -693.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+				(at 12.7 -793.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "AA2810AQBS/D"
+				(at 12.7 -893.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+				(at 12.7 -993.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(symbol "AA2810AQBS_D_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 2.54) (xy 3.81 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.54) (xy 6.35 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SamacSys_Parts:AA2810ASES_J3"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 12.7 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "AA2810ASES_J3"
+				(at 12.7 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "AA2810ASESJ3"
+				(at 12.7 -93.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.kingbrightusa.com/images/catalog/SPEC/AA2810ASES-J3.pdf"
+				(at 12.7 -193.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "Standard LEDs - SMD RA Red 625nm 1800mcd 110deg Water Clr"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.9"
+				(at 12.7 -393.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Kingbright"
+				(at 12.7 -493.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "AA2810ASES/J3"
+				(at 12.7 -593.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "604-AA2810ASES/J3"
+				(at 12.7 -693.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810ASES-J3?qs=jBF9H7RTBaSfc3RgDopyFA%3D%3D"
+				(at 12.7 -793.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "AA2810ASES/J3"
+				(at 12.7 -893.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810asesj3/kingbright?region=nac"
+				(at 12.7 -993.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(symbol "AA2810ASES_J3_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 2.54) (xy 3.81 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.54) (xy 6.35 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SamacSys_Parts:AA2810AVW1S"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 12.7 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "AA2810AVW1S"
+				(at 12.7 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "AA2810AVW1S"
+				(at 12.7 -93.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 12.7 -193.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "LED Uni-Color White 2-Pin Chip LED T/R 2.8X0.8mm RIGHT ANGLE SMD CHIP LED LAMP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.9"
+				(at 12.7 -393.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Kingbright"
+				(at 12.7 -493.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "AA2810AVW1S"
+				(at 12.7 -593.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "N/A"
+				(at 12.7 -693.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AVW1S/?qs=Ay79KZaUeZD7%252BIukeNLHdQ%3D%3D"
+				(at 12.7 -793.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 12.7 -893.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 12.7 -993.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(symbol "AA2810AVW1S_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 2.54) (xy 3.81 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.54) (xy 6.35 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SamacSys_Parts:AA3021SESK_J3-TR"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 12.7 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "AA3021SESK_J3-TR"
+				(at 12.7 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "LEDM3020X150N"
+				(at 12.7 -93.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/AA3021SESK_J3-TR.pdf"
+				(at 12.7 -193.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM RED SMD LED"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.5"
+				(at 12.7 -393.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Kingbright"
+				(at 12.7 -493.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "AA3021SESK/J3-TR"
+				(at 12.7 -593.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "604-AA3021SESKJ3TR"
+				(at 12.7 -693.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=604-AA3021SESKJ3TR"
+				(at 12.7 -793.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "AA3021SESK/J3-TR"
+				(at 12.7 -893.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa3021seskj3-tr/kingbright?region=nac"
+				(at 12.7 -993.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(symbol "AA3021SESK_J3-TR_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 2.54) (xy 3.81 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.54) (xy 6.35 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SamacSys_Parts:AA3021SYSK_J3-TR"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 12.7 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "AA3021SYSK_J3-TR"
+				(at 12.7 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "LEDM3020X150N"
+				(at 12.7 -93.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+				(at 12.7 -193.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.5"
+				(at 12.7 -393.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Kingbright"
+				(at 12.7 -493.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+				(at 12.7 -593.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+				(at 12.7 -693.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+				(at 12.7 -793.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 12.7 -893.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 12.7 -993.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(symbol "AA3021SYSK_J3-TR_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 2.54) (xy 3.81 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.54) (xy 6.35 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "SamacSys_Parts:IS31CS8979-QFLS2-TR"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1439,6 +2739,131 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:VCC"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"VCC\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VCC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(wire
 		(pts
@@ -1452,6 +2877,36 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 72.39) (xy 120.65 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45e7cad3-8631-426f-be0a-9677f6d03969")
+	)
+	(wire
+		(pts
+			(xy 115.57 74.93) (xy 168.91 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b648296-7727-46db-a2f4-bdd1422a70bb")
+	)
+	(wire
+		(pts
+			(xy 115.57 77.47) (xy 138.43 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e15b39d0-14f7-4db5-acdd-b1c54c5e2bff")
+	)
+	(wire
+		(pts
 			(xy 100.33 107.95) (xy 100.33 123.19)
 		)
 		(stroke
@@ -1459,6 +2914,2032 @@
 			(type default)
 		)
 		(uuid "f2b7004c-3d85-4670-8616-3e00f6c1e0a4")
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 171.45 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02d039de-51c9-48b3-8895-31a8082f8861")
+		(property "Reference" "LED11"
+			(at 179.07 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 179.07 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 184.15 280.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 184.15 380.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 171.45 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 184.15 580.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 184.15 680.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 184.15 780.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 184.15 880.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 184.15 980.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 184.15 1080.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 184.15 1180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "98de36c8-22e3-4337-8610-498170294c83")
+		)
+		(pin "2"
+			(uuid "32ba79ef-f968-4ad8-a979-a91cc1d99a12")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 116.84 215.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "047d47ee-0e20-49d0-80c1-4db63309410a")
+		(property "Reference" "LED_B_1_U4"
+			(at 124.46 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 124.46 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 129.54 309.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 129.54 409.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 116.84 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 129.54 609.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 129.54 709.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 129.54 809.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 129.54 909.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 129.54 1009.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 129.54 1109.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 129.54 1209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1da2b5c-14d8-4ab9-ae59-e38146293b39")
+		)
+		(pin "2"
+			(uuid "059b21b0-546a-4acd-8047-f9c0d19291d4")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SESK_J3-TR")
+		(at 184.15 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "10557e20-322a-4802-986c-963c49ac0c56")
+		(property "Reference" "LED14"
+			(at 191.77 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SESK_J3-TR"
+			(at 191.77 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 196.85 168.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/AA3021SESK_J3-TR.pdf"
+			(at 196.85 268.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM RED SMD LED"
+			(at 184.15 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 196.85 468.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 196.85 568.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SESK/J3-TR"
+			(at 196.85 668.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SESKJ3TR"
+			(at 196.85 768.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=604-AA3021SESKJ3TR"
+			(at 196.85 868.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA3021SESK/J3-TR"
+			(at 196.85 968.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa3021seskj3-tr/kingbright?region=nac"
+			(at 196.85 1068.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb2d60fa-7cef-48f1-b287-bafff2b1374a")
+		)
+		(pin "2"
+			(uuid "1cbf2145-d7df-4ce1-a946-31efec28a22c")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 171.45 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12aeb7fe-d832-4be0-b68c-5cbdad6ee546")
+		(property "Reference" "LED12"
+			(at 179.07 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 179.07 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 184.15 294.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 184.15 394.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 171.45 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 184.15 594.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 184.15 694.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 184.15 794.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 184.15 894.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 184.15 994.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 184.15 1094.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 184.15 1194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f3982647-2363-4e57-a503-67a2ff5403a6")
+		)
+		(pin "2"
+			(uuid "c9c30399-6c61-45fb-95b9-6070a020430e")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 171.45 158.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17927d16-64c0-4b45-8ed4-6c6f73b40f5a")
+		(property "Reference" "LED10"
+			(at 179.07 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 179.07 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 184.15 252.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 184.15 352.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 171.45 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 184.15 552.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 184.15 652.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 184.15 752.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 184.15 852.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 184.15 952.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 184.15 1052.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 184.15 1152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "675e23d6-7124-4b5e-b482-45af556c45bf")
+		)
+		(pin "2"
+			(uuid "9735c0d6-8e91-4e45-a035-4b2323100b46")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 116.84 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e73cd36-6192-4aed-ab36-f0f93966a826")
+		(property "Reference" "LED_B_1_U2"
+			(at 124.46 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 124.46 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 129.54 263.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 129.54 363.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 116.84 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 129.54 563.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 129.54 663.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 129.54 763.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 129.54 863.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 129.54 963.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 129.54 1063.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 129.54 1163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7ef30dfa-c6ae-4fce-bfb7-3cfd229cee1b")
+		)
+		(pin "2"
+			(uuid "c371ef1c-3108-49d6-b73c-0bd51fd56225")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810ASES_J3")
+		(at 120.65 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1f9a50d1-a532-44ac-b244-fb23b18cbaf4")
+		(property "Reference" "LED_R_R_1"
+			(at 128.27 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810ASES_J3"
+			(at 128.27 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810ASESJ3"
+			(at 133.35 166.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.kingbrightusa.com/images/catalog/SPEC/AA2810ASES-J3.pdf"
+			(at 133.35 266.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Red 625nm 1800mcd 110deg Water Clr"
+			(at 120.65 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.9"
+			(at 133.35 466.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 133.35 566.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810ASES/J3"
+			(at 133.35 666.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810ASES/J3"
+			(at 133.35 766.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810ASES-J3?qs=jBF9H7RTBaSfc3RgDopyFA%3D%3D"
+			(at 133.35 866.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810ASES/J3"
+			(at 133.35 966.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810asesj3/kingbright?region=nac"
+			(at 133.35 1066.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "40f5d9ab-a16a-4122-b286-f38df14df452")
+		)
+		(pin "1"
+			(uuid "d965f3bf-9602-4e38-9ca1-f2a7f0ae1c29")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_R_R_1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 153.67 215.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2668497f-4571-40c7-8e3c-faf53589d259")
+		(property "Reference" "LED1"
+			(at 161.29 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 161.29 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 166.37 309.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 166.37 409.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 153.67 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 166.37 609.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 166.37 709.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 166.37 809.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 166.37 909.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 166.37 1009.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 166.37 1109.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 166.37 1209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "057747da-d134-44aa-92ce-15c2aa5a3ca5")
+		)
+		(pin "2"
+			(uuid "67dcdca9-0c79-4345-a7e8-8be7a2987c66")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 168.91 215.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d4ec076-8353-4d68-8f4a-1a04b898a272")
+		(property "Reference" "LED8"
+			(at 176.53 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 176.53 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 181.61 309.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 181.61 409.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 168.91 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 181.61 609.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 181.61 709.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 181.61 809.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 181.61 909.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 181.61 1009.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 181.61 1109.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 181.61 1209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4ad05960-b403-483f-953a-af43cc64222d")
+		)
+		(pin "2"
+			(uuid "3cbbc1da-d9c9-4633-912b-dc1f549af054")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 156.21 158.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e245095-b4b3-4f6b-b022-9aefd0a5f42c")
+		(property "Reference" "LED3"
+			(at 163.83 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 163.83 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 168.91 252.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 168.91 352.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 156.21 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 168.91 552.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 168.91 652.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 168.91 752.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 168.91 852.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 168.91 952.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 168.91 1052.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 168.91 1152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3ce0f16-d369-4a12-8167-927449bb08e5")
+		)
+		(pin "2"
+			(uuid "d642b8bf-f134-4d45-8acd-b9d55ad44f40")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 151.13 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a9ebef6-4403-4bda-8804-305e8d28fee0")
+		(property "Reference" "#PWR01"
+			(at 151.13 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 151.13 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 151.13 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "121b2c57-1727-4923-8c42-a760df33b052")
+		)
+		(instances
+			(project ""
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SESK_J3-TR")
+		(at 229.87 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3bc54075-033b-467d-b22f-0d7b441faecb")
+		(property "Reference" "LED17"
+			(at 237.49 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SESK_J3-TR"
+			(at 237.49 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 242.57 168.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/AA3021SESK_J3-TR.pdf"
+			(at 242.57 268.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM RED SMD LED"
+			(at 229.87 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 242.57 468.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 242.57 568.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SESK/J3-TR"
+			(at 242.57 668.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SESKJ3TR"
+			(at 242.57 768.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=604-AA3021SESKJ3TR"
+			(at 242.57 868.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA3021SESK/J3-TR"
+			(at 242.57 968.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa3021seskj3-tr/kingbright?region=nac"
+			(at 242.57 1068.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e9f19a1a-1b24-4795-980b-9bd226e617a9")
+		)
+		(pin "2"
+			(uuid "68486e32-959d-44ed-ad51-4ac8745f49d7")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SESK_J3-TR")
+		(at 199.39 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "472b9a18-b6b9-42b2-b159-5c48209d933c")
+		(property "Reference" "LED15"
+			(at 207.01 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SESK_J3-TR"
+			(at 207.01 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 212.09 168.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/AA3021SESK_J3-TR.pdf"
+			(at 212.09 268.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM RED SMD LED"
+			(at 199.39 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 212.09 468.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 212.09 568.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SESK/J3-TR"
+			(at 212.09 668.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SESKJ3TR"
+			(at 212.09 768.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=604-AA3021SESKJ3TR"
+			(at 212.09 868.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA3021SESK/J3-TR"
+			(at 212.09 968.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa3021seskj3-tr/kingbright?region=nac"
+			(at 212.09 1068.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b350053-2593-4ddb-bff6-7f5b74330a8d")
+		)
+		(pin "2"
+			(uuid "ba851ed4-79a5-42a7-b0f8-39a98ddc813f")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 132.08 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4876358c-4752-4b92-b8f0-7abfc845912a")
+		(property "Reference" "LED_B_1_U9"
+			(at 139.7 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 139.7 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 144.78 279.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 144.78 379.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 132.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 144.78 579.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 144.78 679.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 144.78 779.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 144.78 879.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 144.78 979.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 144.78 1079.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 144.78 1179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd190ade-e80b-4786-8bb6-dfd896deac14")
+		)
+		(pin "2"
+			(uuid "40593e8c-c3d8-492a-b86b-72780af8374c")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 133.35 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ae83681-952a-442c-a7cf-aac74fad7c59")
+		(property "Reference" "LED_B_1_U11"
+			(at 140.97 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 140.97 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 146.05 294.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 146.05 394.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 133.35 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 146.05 594.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 146.05 694.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 146.05 794.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 146.05 894.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 146.05 994.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 146.05 1094.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 146.05 1194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f9f2b7f9-c299-4457-98dc-6029dfc44564")
+		)
+		(pin "2"
+			(uuid "4c7270a9-79a3-48e6-83a4-d0c32791d859")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U11")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:IS32IO1028A-GRLA2-TR")
@@ -1470,7 +4951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51adac1c-ad53-4c22-8b06-c408bb9143b3")
-		(property "Reference" "IC2"
+		(property "Reference" "IC1"
 			(at 81.28 113.03 0)
 			(effects
 				(font
@@ -1615,7 +5096,287 @@
 		(instances
 			(project ""
 				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
-					(reference "IC2")
+					(reference "IC1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 154.94 227.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "54cf00b7-5b8a-4a83-bd72-1fe9cfdfd5f1")
+		(property "Reference" "LED2"
+			(at 162.56 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 162.56 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 167.64 320.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 167.64 420.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 154.94 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 167.64 620.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 167.64 720.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 167.64 820.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 167.64 920.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 167.64 1020.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 167.64 1120.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 167.64 1220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f7464dd-3e92-4978-87d5-03f688f0a2b0")
+		)
+		(pin "2"
+			(uuid "16e2cf53-6288-476e-ac36-2f9da28494eb")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 118.11 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "65689fae-4e88-48ae-bef1-e85004564a44")
+		(property "Reference" "LED_B_1_U5"
+			(at 125.73 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 125.73 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 130.81 294.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 130.81 394.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 118.11 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 130.81 594.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 130.81 694.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 130.81 794.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 130.81 894.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 130.81 994.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 130.81 1094.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 130.81 1194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d0b72cf-0219-4bf9-a52b-903570605b50")
+		)
+		(pin "2"
+			(uuid "2479d4af-0f75-4006-a067-e1e91ff0acd1")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U5")
 					(unit 1)
 				)
 			)
@@ -1623,7 +5384,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:228EMVARGBFR")
-		(at 205.74 76.2 0)
+		(at 45.72 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1632,7 +5393,7 @@
 		(fields_autoplaced yes)
 		(uuid "6be644fa-1250-4122-b843-635b2af29920")
 		(property "Reference" "S1"
-			(at 223.52 68.58 0)
+			(at 63.5 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1640,7 +5401,7 @@
 			)
 		)
 		(property "Value" "228EMVARGBFR"
-			(at 223.52 71.12 0)
+			(at 63.5 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1648,7 +5409,7 @@
 			)
 		)
 		(property "Footprint" "228EMVARGBFR"
-			(at 237.49 171.12 0)
+			(at 77.47 121.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1658,7 +5419,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ctscorp.com/Files/DataSheets/Switches/Tactile-Switches/CTS-Switches-Tactile-228E-Series-Datasheet.pdf"
-			(at 237.49 271.12 0)
+			(at 77.47 221.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1668,7 +5429,7 @@
 			)
 		)
 		(property "Description" "Tactile Switches LED tact sw, gullwing, vertical, red,green&blue flat led"
-			(at 205.74 76.2 0)
+			(at 45.72 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1677,7 +5438,7 @@
 			)
 		)
 		(property "Height" "5.7"
-			(at 237.49 471.12 0)
+			(at 77.47 421.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1687,7 +5448,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "CTS"
-			(at 237.49 571.12 0)
+			(at 77.47 521.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1697,7 +5458,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "228EMVARGBFR"
-			(at 237.49 671.12 0)
+			(at 77.47 621.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1707,7 +5468,7 @@
 			)
 		)
 		(property "Mouser Part Number" "774-228EMVARGBFR"
-			(at 237.49 771.12 0)
+			(at 77.47 721.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1717,7 +5478,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CTS-Electronic-Components/228EMVARGBFR?qs=BJlw7L4Cy7%2FeuEuJlsaHQw%3D%3D"
-			(at 237.49 871.12 0)
+			(at 77.47 821.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1727,7 +5488,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 237.49 971.12 0)
+			(at 77.47 921.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1737,7 +5498,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 237.49 1071.12 0)
+			(at 77.47 1021.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1777,6 +5538,986 @@
 		)
 	)
 	(symbol
+		(lib_id "SamacSys_Parts:AA2810ASES_J3")
+		(at 135.89 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6fb007eb-edd6-494d-9992-fcc86bed7563")
+		(property "Reference" "LED_R_R_2"
+			(at 143.51 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810ASES_J3"
+			(at 143.51 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810ASESJ3"
+			(at 148.59 166.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.kingbrightusa.com/images/catalog/SPEC/AA2810ASES-J3.pdf"
+			(at 148.59 266.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Red 625nm 1800mcd 110deg Water Clr"
+			(at 135.89 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.9"
+			(at 148.59 466.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 148.59 566.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810ASES/J3"
+			(at 148.59 666.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810ASES/J3"
+			(at 148.59 766.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810ASES-J3?qs=jBF9H7RTBaSfc3RgDopyFA%3D%3D"
+			(at 148.59 866.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810ASES/J3"
+			(at 148.59 966.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810asesj3/kingbright?region=nac"
+			(at 148.59 1066.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fdbe898e-cb8f-4ed1-a5e0-4a6acef40bb7")
+		)
+		(pin "1"
+			(uuid "c5cd87bc-d7bc-4519-90c2-8300565ee6c0")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_R_R_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AVW1S")
+		(at 138.43 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7b210c9e-272c-49d0-801b-81882aaab5cb")
+		(property "Reference" "LED_W_F_1"
+			(at 146.05 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AVW1S"
+			(at 146.05 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AVW1S"
+			(at 151.13 171.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 271.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "LED Uni-Color White 2-Pin Chip LED T/R 2.8X0.8mm RIGHT ANGLE SMD CHIP LED LAMP"
+			(at 138.43 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.9"
+			(at 151.13 471.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 151.13 571.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AVW1S"
+			(at 151.13 671.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "N/A"
+			(at 151.13 771.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AVW1S/?qs=Ay79KZaUeZD7%252BIukeNLHdQ%3D%3D"
+			(at 151.13 871.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 151.13 971.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 151.13 1071.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd772c0b-4e75-44ae-ba0a-75e83213c9ab")
+		)
+		(pin "2"
+			(uuid "b021d8e1-de38-4172-91c3-a1a1593387eb")
+		)
+		(instances
+			(project ""
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_W_F_1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 156.21 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8932154e-9291-438e-8787-b8c7eb3511f8")
+		(property "Reference" "LED4"
+			(at 163.83 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 163.83 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 168.91 280.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 168.91 380.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 156.21 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 168.91 580.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 168.91 680.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 168.91 780.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 168.91 880.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 168.91 980.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 168.91 1080.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 168.91 1180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db6f130b-c680-4568-802d-6dc14382f890")
+		)
+		(pin "2"
+			(uuid "65aaaa80-3b7a-4db3-aa75-7142bcf258f2")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 132.08 215.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92dcb025-ea11-44ba-be68-d4c10ef248a8")
+		(property "Reference" "LED_B_1_U10"
+			(at 139.7 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 139.7 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 144.78 309.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 144.78 409.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 132.08 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 144.78 609.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 144.78 709.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 144.78 809.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 144.78 909.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 144.78 1009.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 144.78 1109.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 144.78 1209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b3bcd5a-e8bc-4e61-be4d-5bcf4d9a0bec")
+		)
+		(pin "2"
+			(uuid "91d3ccc0-3717-4dd2-8ab2-d7a1c05aeac2")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 173.99 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9664ba36-7066-44e7-b7f8-78135409d461")
+		(property "Reference" "LED13"
+			(at 181.61 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 181.61 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 186.69 263.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 186.69 363.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 173.99 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 186.69 563.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 186.69 663.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 186.69 763.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 186.69 863.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 186.69 963.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 186.69 1063.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 186.69 1163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1d773a3-1b60-4e14-97bb-a461c6dcdf72")
+		)
+		(pin "2"
+			(uuid "d02d6291-ed85-45cb-9635-81aca297d3ff")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 133.35 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac8ff350-0e7e-458d-a71d-7d8b3ff14424")
+		(property "Reference" "LED_B_1_U12"
+			(at 140.97 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 140.97 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 146.05 322.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 146.05 422.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 133.35 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 146.05 622.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 146.05 722.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 146.05 822.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 146.05 922.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 146.05 1022.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 146.05 1122.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 146.05 1222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fcac0c84-0f95-4ec7-aa2b-9ade18c0eaff")
+		)
+		(pin "2"
+			(uuid "7bdfb344-219a-46d5-8f1b-8542abb36bf2")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SESK_J3-TR")
+		(at 168.91 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b21d2b66-4b99-416d-a981-13a806226e6b")
+		(property "Reference" "LED7"
+			(at 176.53 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SESK_J3-TR"
+			(at 176.53 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 181.61 168.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/AA3021SESK_J3-TR.pdf"
+			(at 181.61 268.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM RED SMD LED"
+			(at 168.91 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 181.61 468.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 181.61 568.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SESK/J3-TR"
+			(at 181.61 668.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SESKJ3TR"
+			(at 181.61 768.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=604-AA3021SESKJ3TR"
+			(at 181.61 868.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA3021SESK/J3-TR"
+			(at 181.61 968.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa3021seskj3-tr/kingbright?region=nac"
+			(at 181.61 1068.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b355a8d0-95c2-43c4-a452-aaeb60ed13e3")
+		)
+		(pin "2"
+			(uuid "ba07aef7-4db3-47ef-bf56-435687f8cc98")
+		)
+		(instances
+			(project ""
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SamacSys_Parts:IS31CS8979-QFLS2-TR")
 		(at 74.93 67.31 0)
 		(unit 1)
@@ -1786,7 +6527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b389804c-25f3-4577-aa5a-36d60e0cb1fd")
-		(property "Reference" "IC1"
+		(property "Reference" "IC2"
 			(at 123.19 60.8898 0)
 			(effects
 				(font
@@ -2027,7 +6768,1679 @@
 		(instances
 			(project ""
 				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
-					(reference "IC1")
+					(reference "IC2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 118.11 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be6ecf23-c48f-414c-ac01-080cd4b08dd7")
+		(property "Reference" "LED_B_1_U6"
+			(at 125.73 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 125.73 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 130.81 322.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 130.81 422.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 118.11 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 130.81 622.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 130.81 722.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 130.81 822.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 130.81 922.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 130.81 1022.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 130.81 1122.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 130.81 1222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "752285fb-cab8-46b0-af22-bca817e0994a")
+		)
+		(pin "2"
+			(uuid "4631be7f-41a9-4dd8-acfd-81f2c95a03e3")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 156.21 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c3d6b2e4-f964-47cc-bbdc-8ca09f7c52fb")
+		(property "Reference" "LED5"
+			(at 163.83 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 163.83 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 168.91 294.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 168.91 394.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 156.21 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 168.91 594.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 168.91 694.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 168.91 794.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 168.91 894.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 168.91 994.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 168.91 1094.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 168.91 1194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1a0167e8-014f-4f20-b631-cb4f3cd4f0f6")
+		)
+		(pin "2"
+			(uuid "52389c67-9aa2-41f4-9c21-18eeef2e6af9")
+		)
+		(instances
+			(project ""
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 260.35 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5948936-13d7-4cd7-9b4b-465d820597bd")
+		(property "Reference" "#PWR03"
+			(at 260.35 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 260.35 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 260.35 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fa3dcff3-cc57-40a2-a4bb-b3ac917c558c")
+		)
+		(instances
+			(project ""
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SESK_J3-TR")
+		(at 245.11 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5ad8d04-3a7d-4f87-8fbc-87ee2dfde7a5")
+		(property "Reference" "LED18"
+			(at 252.73 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SESK_J3-TR"
+			(at 252.73 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 257.81 168.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/AA3021SESK_J3-TR.pdf"
+			(at 257.81 268.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM RED SMD LED"
+			(at 245.11 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 257.81 468.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 257.81 568.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SESK/J3-TR"
+			(at 257.81 668.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SESKJ3TR"
+			(at 257.81 768.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=604-AA3021SESKJ3TR"
+			(at 257.81 868.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA3021SESK/J3-TR"
+			(at 257.81 968.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa3021seskj3-tr/kingbright?region=nac"
+			(at 257.81 1068.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b5ffbfab-6a8b-4cf6-bd0e-4a2e07348d52")
+		)
+		(pin "2"
+			(uuid "d3a06fb8-33a8-490d-a6c8-3599ec1eccd2")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 115.57 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5e18bc0-4c2f-4858-a3d1-6d4182ce6cd9")
+		(property "Reference" "LED_B_1_U1"
+			(at 123.19 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 123.19 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 128.27 251.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 128.27 351.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 115.57 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 128.27 551.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 128.27 651.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 128.27 751.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 128.27 851.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 128.27 951.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 128.27 1051.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 128.27 1151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bbaf56be-eb1a-4b65-8cc1-1f5091e12c8d")
+		)
+		(pin "2"
+			(uuid "13a147c2-3e60-4873-8fb5-a101c7c05689")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 158.75 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cbcbef83-c860-4daf-85b3-be19a68811a9")
+		(property "Reference" "LED6"
+			(at 166.37 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 166.37 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 171.45 263.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 171.45 363.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 158.75 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 171.45 563.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 171.45 663.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 171.45 763.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 171.45 863.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 171.45 963.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 171.45 1063.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 171.45 1163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d09f20d-237c-41ef-a3a3-c232abed7281")
+		)
+		(pin "2"
+			(uuid "952c47eb-38be-4dbc-a1b3-f009e1793823")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 132.08 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d24fed2a-3070-44d4-899a-d4f791a283be")
+		(property "Reference" "LED_B_1_U8"
+			(at 139.7 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 139.7 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 144.78 263.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 144.78 363.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 132.08 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 144.78 563.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 144.78 663.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 144.78 763.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 144.78 863.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 144.78 963.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 144.78 1063.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 144.78 1163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca83b376-2eab-45bf-93f5-297eb052f8e7")
+		)
+		(pin "2"
+			(uuid "e34b6336-3c09-4366-97aa-d1260dba0b09")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SYSK_J3-TR")
+		(at 170.18 227.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2736bc8-6186-48fd-9b4c-16c5922b03e5")
+		(property "Reference" "LED9"
+			(at 177.8 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SYSK_J3-TR"
+			(at 177.8 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 182.88 320.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.KingbrightUSA.com/images/catalog/SPEC/AA3021SYSK-J3-TR.pdf"
+			(at 182.88 420.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM YELLOW SMD LED"
+			(at 170.18 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 182.88 620.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 182.88 720.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SYSK/J3-TR"
+			(at 182.88 820.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SYSKJ3TR"
+			(at 182.88 920.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3021SYSK-J3-TR?qs=Rt2YTNbomKjzKhXMN2ecRA%3D%3D"
+			(at 182.88 1020.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 182.88 1120.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 182.88 1220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd4cc5e4-d4c4-4812-850c-fa6935e799dd")
+		)
+		(pin "2"
+			(uuid "6fe82c1f-8647-4139-8044-9465e998d0f2")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AVW1S")
+		(at 153.67 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d7a0f5e1-51e3-4668-81e6-8470129fa6b4")
+		(property "Reference" "LED_W_F_2"
+			(at 161.29 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AVW1S"
+			(at 161.29 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AVW1S"
+			(at 166.37 171.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 271.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "LED Uni-Color White 2-Pin Chip LED T/R 2.8X0.8mm RIGHT ANGLE SMD CHIP LED LAMP"
+			(at 153.67 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.9"
+			(at 166.37 471.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 166.37 571.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AVW1S"
+			(at 166.37 671.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "N/A"
+			(at 166.37 771.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AVW1S/?qs=Ay79KZaUeZD7%252BIukeNLHdQ%3D%3D"
+			(at 166.37 871.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 166.37 971.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 166.37 1071.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "517a6fd0-b8c2-484c-b7fb-23a6eea2ba2d")
+		)
+		(pin "2"
+			(uuid "5efaf125-be75-46cb-a432-a73087ee2253")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_W_F_2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA3021SESK_J3-TR")
+		(at 214.63 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dbf12f98-7adb-49d7-bbf7-0dfa94eae4e2")
+		(property "Reference" "LED16"
+			(at 222.25 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA3021SESK_J3-TR"
+			(at 222.25 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LEDM3020X150N"
+			(at 227.33 168.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/AA3021SESK_J3-TR.pdf"
+			(at 227.33 268.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD 3.0 X 2.0 MM RED SMD LED"
+			(at 214.63 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.5"
+			(at 227.33 468.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 227.33 568.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA3021SESK/J3-TR"
+			(at 227.33 668.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA3021SESKJ3TR"
+			(at 227.33 768.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=604-AA3021SESKJ3TR"
+			(at 227.33 868.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA3021SESK/J3-TR"
+			(at 227.33 968.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa3021seskj3-tr/kingbright?region=nac"
+			(at 227.33 1068.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "456109fd-4314-4e5e-99a9-3f3a994f5558")
+		)
+		(pin "2"
+			(uuid "85ccdc6f-6d8d-434e-a139-705c4cae4b8f")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 168.91 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc816f98-872b-44cc-a879-4bc095be103e")
+		(property "Reference" "#PWR02"
+			(at 168.91 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 168.91 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 168.91 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 168.91 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 168.91 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "72e68c63-60df-4b0c-af41-8232dfe05375")
+		)
+		(instances
+			(project ""
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 116.84 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed52e2dd-e110-43c6-9e86-6864877bc49a")
+		(property "Reference" "LED_B_1_U3"
+			(at 124.46 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 124.46 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 129.54 279.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 129.54 379.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 116.84 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 129.54 579.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 129.54 679.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 129.54 779.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 129.54 879.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 129.54 979.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 129.54 1079.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 129.54 1179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b460a64-266c-44c6-b3b9-5b318159c0a8")
+		)
+		(pin "2"
+			(uuid "78ca69f8-521e-46e1-8be6-e93a54426087")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:AA2810AQBS_D")
+		(at 130.81 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6487dd0-98ce-4bb4-ae8f-057e58ecef41")
+		(property "Reference" "LED_B_1_U7"
+			(at 138.43 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AA2810AQBS_D"
+			(at 138.43 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "AA2810AQBSD"
+			(at 143.51 251.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/AA2810AQBS-D.pdf"
+			(at 143.51 351.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD RA Blue 470nm 150mcd 110deg Water Clr"
+			(at 130.81 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 143.51 551.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 143.51 651.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AA2810AQBS/D"
+			(at 143.51 751.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-AA2810AQBS/D"
+			(at 143.51 851.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA2810AQBS-D?qs=jBF9H7RTBaRP3tj%2FHKNKMA%3D%3D"
+			(at 143.51 951.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "AA2810AQBS/D"
+			(at 143.51 1051.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/aa2810aqbsd/kingbright?region=nac"
+			(at 143.51 1151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab148307-a14a-4267-b159-97816826aa0f")
+		)
+		(pin "2"
+			(uuid "36c4ba16-9ba6-471d-9f70-38c073795975")
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
+					(reference "LED_B_1_U7")
 					(unit 1)
 				)
 			)
