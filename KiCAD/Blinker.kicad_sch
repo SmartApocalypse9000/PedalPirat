@@ -2,12 +2,12 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "9ce0a74b-6fd5-414b-86b4-a0501b0597ae")
-	(paper "A3")
+	(uuid "ae3c00f9-10c5-4024-abbc-a41ab824b457")
+	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 147.32 88.9)
-		(size 104.14 58.42)
+		(at 13.97 48.26)
+		(size 69.85 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20,9 +20,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "7c8c2a14-6db1-488a-9a43-9bc2157ca297")
-		(property "Sheetname" "Baseboard_Front"
-			(at 147.32 88.1884 0)
+		(uuid "87f94918-f02c-40a8-91f6-79d5f8836291")
+		(property "Sheetname" "Blinker_Grip"
+			(at 13.97 47.5484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30,8 +30,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Baseboard_Front.kicad_sch"
-			(at 147.32 147.9046 0)
+		(property "Sheetfile" "Blinker_Grip.kicad_sch"
+			(at 13.97 80.5946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41,15 +41,15 @@
 		)
 		(instances
 			(project "PedalPirat"
-				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
-					(page "7")
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae/cea94e63-79b8-4dd4-b152-d849d09f7588/8683f94c-03a2-4fd0-82d4-d6d06d12115e"
+					(page "4")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 20.32 127)
-		(size 12.7 34.29)
+		(at 115.57 49.53)
+		(size 66.04 33.02)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -62,9 +62,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "cea94e63-79b8-4dd4-b152-d849d09f7588")
-		(property "Sheetname" "Lights"
-			(at 20.32 126.2884 0)
+		(uuid "f5a7d5e7-d7b7-40d1-a89f-4697120cfd0e")
+		(property "Sheetname" "Blinker_Extension"
+			(at 115.57 48.8184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72,8 +72,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 20.32 161.8746 0)
+		(property "Sheetfile" "Blinker_Extension.kicad_sch"
+			(at 115.57 83.1346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -83,16 +83,10 @@
 		)
 		(instances
 			(project "PedalPirat"
-				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae"
-					(page "2")
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae/cea94e63-79b8-4dd4-b152-d849d09f7588/8683f94c-03a2-4fd0-82d4-d6d06d12115e"
+					(page "5")
 				)
 			)
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )

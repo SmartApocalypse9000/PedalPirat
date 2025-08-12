@@ -612,6 +612,34 @@
     [
       "9ce0a74b-6fd5-414b-86b4-a0501b0597ae",
       "Root"
+    ],
+    [
+      "cea94e63-79b8-4dd4-b152-d849d09f7588",
+      "Lights"
+    ],
+    [
+      "8683f94c-03a2-4fd0-82d4-d6d06d12115e",
+      "Blinker"
+    ],
+    [
+      "87f94918-f02c-40a8-91f6-79d5f8836291",
+      "Blinker_Grip"
+    ],
+    [
+      "f5a7d5e7-d7b7-40d1-a89f-4697120cfd0e",
+      "Blinker_Extension"
+    ],
+    [
+      "1fa3f230-3de4-4e6b-8ddb-a3b4a7a0c439",
+      "Rear_LightBlinker"
+    ],
+    [
+      "7c8c2a14-6db1-488a-9a43-9bc2157ca297",
+      "Baseboard_Front"
+    ],
+    [
+      "28097cc0-bbbd-4c07-a0e1-37a2a89ac7a1",
+      "Handlebar_PositionLight"
     ]
   ],
   "text_variables": {}

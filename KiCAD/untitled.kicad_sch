@@ -1,0 +1,142 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "42982b9f-bf8a-4efc-a4f0-0c33f1462ece")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 22.86 80.01)
+		(size 45.72 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1fa3f230-3de4-4e6b-8ddb-a3b4a7a0c439")
+		(property "Sheetname" "Rear_LightBlinker"
+			(at 22.86 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Rear_LightBlinker.kicad_sch"
+			(at 22.86 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae/cea94e63-79b8-4dd4-b152-d849d09f7588"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 83.82 50.8)
+		(size 72.39 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "28097cc0-bbbd-4c07-a0e1-37a2a89ac7a1")
+		(property "Sheetname" "Handlebar_PositionLight"
+			(at 83.82 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Handlebar_PositionLight.kicad_sch"
+			(at 83.82 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae/cea94e63-79b8-4dd4-b152-d849d09f7588"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 26.67 50.8)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8683f94c-03a2-4fd0-82d4-d6d06d12115e")
+		(property "Sheetname" "Blinker"
+			(at 26.67 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Blinker.kicad_sch"
+			(at 26.67 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 26.67 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae/cea94e63-79b8-4dd4-b152-d849d09f7588"
+					(page "3")
+				)
+			)
+		)
+	)
+)
