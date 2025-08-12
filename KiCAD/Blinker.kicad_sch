@@ -6,6 +6,48 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 209.55 91.44)
+		(size 45.72 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "51e285bb-ec7d-464c-b3b7-89b2d9ea34eb")
+		(property "Sheetname" "Blinker_Handlebarextension"
+			(at 209.55 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Blinker_Handlebarextension.kicad_sch"
+			(at 209.55 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae/cea94e63-79b8-4dd4-b152-d849d09f7588/8683f94c-03a2-4fd0-82d4-d6d06d12115e"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 13.97 48.26)
 		(size 69.85 31.75)
 		(exclude_from_sim no)

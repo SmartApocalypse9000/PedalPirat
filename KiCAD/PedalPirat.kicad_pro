@@ -640,6 +640,10 @@
     [
       "28097cc0-bbbd-4c07-a0e1-37a2a89ac7a1",
       "Handlebar_PositionLight"
+    ],
+    [
+      "51e285bb-ec7d-464c-b3b7-89b2d9ea34eb",
+      "Blinker_Handlebarextension"
     ]
   ],
   "text_variables": {}
