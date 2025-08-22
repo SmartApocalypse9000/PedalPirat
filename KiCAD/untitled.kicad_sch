@@ -139,4 +139,46 @@
 			)
 		)
 	)
+	(sheet
+		(at 189.23 96.52)
+		(size 52.07 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e3f4dded-6358-4503-aad8-aa9341bb7fa1")
+		(property "Sheetname" "Litemove-Ctrl"
+			(at 189.23 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Liitemove-Ctrl.kicad_sch"
+			(at 189.23 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PedalPirat"
+				(path "/9ce0a74b-6fd5-414b-86b4-a0501b0597ae/cea94e63-79b8-4dd4-b152-d849d09f7588"
+					(page "10")
+				)
+			)
+		)
+	)
 )
